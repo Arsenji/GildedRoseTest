@@ -54,7 +54,8 @@
 
     $gildedRose->updateQuality();
 
-    print_r($items);```
+    print_r($items);
+    ```
 
 ## Структура проекта
 
